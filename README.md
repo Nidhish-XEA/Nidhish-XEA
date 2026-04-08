@@ -1,6 +1,6 @@
 <div align="center">
 
-# NIDHISK K
+# NIDHISH K
 
 *"I started by trying to understand systems.*
 *Now I build ones that understand themselves — and refuse to break."*
